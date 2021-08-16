@@ -21,6 +21,17 @@ aside {
 
   color: #c4c4c4;
 }
+.danger-text {
+	color: #ff4400;
+}
+.danger-block {
+	padding: 5px 10px;
+	background-color: #ffd0bf;
+}
+.no-danger-block {
+	padding: 5px 10px;
+	background-color: #c6f5f0;
+}
 blockquote {
 	padding-left: 14px;
 	border-left: 2px solid #6a2cce;
