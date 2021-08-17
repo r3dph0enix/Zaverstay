@@ -21,6 +21,16 @@ aside {
 
   color: #c4c4c4;
 }
+a[href] {
+	color: #0099ef;
+	text-decoration line: underline;
+}
+article {
+	width: 400px;
+}
+h2 {
+	font-size: 18px;
+}
 .danger-text {
 	color: #ff4400;
 }
