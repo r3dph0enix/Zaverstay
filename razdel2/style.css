@@ -17,6 +17,8 @@ h1 {
 nav {
 	color: #888888;
 	margin-bottom: 30px;
+	padding: 20px;
+	color: #ffffff;
 	background-color: #4470c4;
 }
 nav a {
