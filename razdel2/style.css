@@ -35,6 +35,11 @@ h1 {
 .blog-navigation li {
 	margin-bottom: 5px;
 }
+.skills dd {
+	background-color: #e8e8e8;
+	margin: 0;
+	margin-bottom: 10px;
+}
 aside {
   margin: 20px 0;
 
