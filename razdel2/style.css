@@ -11,7 +11,9 @@ h1 {
   font-size: 20px;
   line-height: normal;
 }
-
+.avatar {
+	border-radius: 10px;
+}
 nav {
 	color: #888888;
 	margin-bottom: 30px;
