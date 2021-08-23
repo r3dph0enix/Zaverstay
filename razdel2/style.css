@@ -19,16 +19,21 @@ nav {
 	margin-bottom: 30px;
 	background-color: #4470c4;
 }
+nav a {
+	color: #ffffff;
+}
 
 aside {
   margin: 20px 0;
 
   color: #c4c4c4;
 }
+/*
 a[href] {
 	color: #0099ef;
 	text-decoration line: underline;
 }
+*/
 figure {
 	margin-left: 0;
 	margin-right: 0;
