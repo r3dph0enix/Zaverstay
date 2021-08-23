@@ -12,7 +12,7 @@ h1 {
   line-height: normal;
 }
 .avatar {
-	border-radius: 10px;
+	border-radius: 50%;
 }
 nav {
 	color: #888888;
