@@ -22,12 +22,18 @@ h1 {
 	color: #ffffff;
 	background-color: #4470c4;
 }
-nav a {
+.blog-navigation a {
 	color: #ffffff;
 }
-ul {
+.blog-navigation ul {
 	list-style: none;
 	padding-left: 0;
+}
+.blog-navigation h2 {
+	margin-top: 0;
+}
+.blog-navigation li {
+	margin-bottom: 5px;
 }
 aside {
   margin: 20px 0;
