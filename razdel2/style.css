@@ -40,6 +40,12 @@ h1 {
 	margin: 0;
 	margin-bottom: 10px;
 }
+.skills-level {
+	font-size: 12px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #4470c4;
+}
 aside {
   margin: 20px 0;
 
