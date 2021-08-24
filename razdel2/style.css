@@ -46,6 +46,9 @@ h1 {
 	color: #ffffff;
 	background-color: #4470c4;
 }
+.skills-level-ok {
+	background-color: #47bb522;
+}
 aside {
   margin: 20px 0;
 
