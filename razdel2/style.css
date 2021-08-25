@@ -1,6 +1,6 @@
 body {
   padding: 0 30px;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: #222222;
@@ -23,7 +23,7 @@ a {
   text-decoration: underline;
 }
 .page-title {
-	font-size: 36px;
+	font-size: 2.5em;
 }
 .avatar {
   border-radius: 50%;
