@@ -1,0 +1,18 @@
+td, th {
+	border: 1px solid gray;
+}
+body, td, th {
+	padding: 10px;
+}
+td {
+	display: table-cell;
+	vertical-align: inherit;
+}
+th {
+  font-weight: normal;
+  background-color: #dad7f4;
+  text-align: left;
+}
+table {
+	border-collapse: collapse;
+}
